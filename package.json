@@ -1,6 +1,6 @@
 {
   "name": "bootstrap11",
-  "version": "1.0.0",
+  "version": "5.2.0",
   "description": "Basement Eleven Themed Bootstrap",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/Basement-Eleven-Dev/bootstrap11.git"
   },
-  "author": "",
+  "author": "Basement Eleven",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Basement-Eleven-Dev/bootstrap11/issues"
